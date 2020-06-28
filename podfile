@@ -1,0 +1,8 @@
+
+
+target 'xmmptest' do
+	use_frameworks!
+  pod 'XMPPFramework'
+end
+
+
